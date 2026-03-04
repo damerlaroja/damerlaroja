@@ -11,6 +11,14 @@ My current focus is the **industrialization of AI**: moving LLM implementations 
 ---
 
 ## 🤖 Featured AI Research & Implementation
+### [Fintech AI Agent Playground] 
+A living reference implementation of modern agentic AI engineering 
+for fintech research. Orchestrated with LangGraph, powered by Gemini 
+2.5 Flash and Groq with automatic failover. Implements ReAct, Tool Use, 
+Reflection & Memory patterns with enterprise design principles -
+Factory, Strategy, Facade, and Open/Closed. 
+* Deployed live on Streamlit Cloud: https://damerlaroja-fintech-ai-agent-playground.streamlit.app/
+
 ### [Agentic RAG with Self-Correction Loop] 
 A reference implementation for high-reliability RAG (Retrieval-Augmented Generation) using **LangGraph** and **Gemini 2.0 Flash**.
 
